@@ -1,0 +1,13 @@
+# Environnement virtuel
+venv/
+
+# Fichiers Python compilés
+__pycache__/
+*.pyc
+
+# Fichiers temporaires / logs
+*.log
+*.db
+
+# Checkpoints Jupyter
+.ipynb_checkpoints/
