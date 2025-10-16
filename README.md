@@ -108,11 +108,4 @@ Toutes les dépendances sont listées dans `requirements.txt`.
 
 
 
-```
 
----
-
-Si tu veux, je peux te faire **une version encore plus concise et « prête à copier »**, où tu n’as plus qu’à remplacer le `.env` et lancer les commandes Python.  
-
-Veux‑tu que je fasse ça ?
-```
